@@ -6,10 +6,10 @@ if (!defined('DB_HOST'))
 	define('DB_HOST', 'localhost');
 
 if (!defined('DB_USER'))
-	define('DB_USER', 'root');
+	define('DB_USER', 'def-app');
 
 if (!defined('DB_PW'))
-	define('DB_PW', 'Samson.22101997');//Sedjo120@
+	define('DB_PW', 'Sedjo120@');//Sedjo120@
 
 if (!defined('DB_NAME'))
 	define('DB_NAME', 'def_sbs');

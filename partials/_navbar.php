@@ -50,23 +50,23 @@
                         <b class="arrow"></b>
                     </li>
                     <li class="hover">
-                        <a href="#">
+                        <a href="http://localhost:8082/stock">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Situation en stock
+                            Gestion des stock
                         </a>
                         <b class="arrow"></b>
                     </li>
                     <li class="hover">
-                        <a href="#">
+                        <a href="#" target="_blanc">
                             <i class="menu-icon fa fa-caret-right"></i>
                             Entrées en stock
                         </a>
                         <b class="arrow"></b>
                     </li>
                     <li class="hover">
-                        <a href="#">
+                        <a href="#http://localhost:8082/facturation">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Carnet des entrées
+                            Vente de marchandises
                         </a>
                         <b class="arrow"></b>
                     </li>

@@ -6,10 +6,10 @@ if (!defined('DBHOST'))
     define('DBHOST', 'localhost');
 
 if (!defined('DBUSER'))
-    define('DBUSER', 'root');
+    define('DBUSER', 'def-app');
 
 if (!defined('DBPW'))
-    define('DBPW', 'Samson.22101997');
+    define('DBPW', 'Sedjo120@');
 
 if (!empty($_SESSION['NUMERODEF']))
     $defnumber =  str_replace(['/', '-'], ['', ''], $_SESSION['NUMERODEF']);

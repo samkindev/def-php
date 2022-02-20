@@ -2,8 +2,8 @@
 //Création de la structure de base de données
 function connect_db_liable ($dbname_liable, $telepone, $motdepasse){
 	$dbhost = 'localhost';
-	$dbuser = 'root';
-	$dbpw = 'Samson.22101997';//Sedjo120@
+	$dbuser = 'def-app';
+	$dbpw = 'Sedjo120@';//Sedjo120@
 	$dbname = $dbname_liable;
 
 	$dbliablepdo= new PDO('mysql:host='.$dbhost.';dbname='.$dbname, $dbuser, $dbpw, array(
